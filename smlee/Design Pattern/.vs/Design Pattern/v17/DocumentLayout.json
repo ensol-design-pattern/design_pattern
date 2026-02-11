@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F1C2D2-4F06-4B19-AC28-E64B5634DD4E}|Design Pattern\\Design Pattern.vcxproj|C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\Design Pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F1C2D2-4F06-4B19-AC28-E64B5634DD4E}|Design Pattern\\Design Pattern.vcxproj|solutionrelative:Design Pattern\\Design Pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F1C2D2-4F06-4B19-AC28-E64B5634DD4E}|Design Pattern\\Design Pattern.vcxproj|C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\factory_method_patten.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F1C2D2-4F06-4B19-AC28-E64B5634DD4E}|Design Pattern\\Design Pattern.vcxproj|solutionrelative:Design Pattern\\factory_method_patten.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F1C2D2-4F06-4B19-AC28-E64B5634DD4E}|Design Pattern\\Design Pattern.vcxproj|C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\strategy_pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F1C2D2-4F06-4B19-AC28-E64B5634DD4E}|Design Pattern\\Design Pattern.vcxproj|solutionrelative:Design Pattern\\strategy_pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F1C2D2-4F06-4B19-AC28-E64B5634DD4E}|Design Pattern\\Design Pattern.vcxproj|C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\template_method_pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F1C2D2-4F06-4B19-AC28-E64B5634DD4E}|Design Pattern\\Design Pattern.vcxproj|solutionrelative:Design Pattern\\template_method_pattern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "strategy_pattern.cpp",
+              "DocumentMoniker": "C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\strategy_pattern.cpp",
+              "RelativeDocumentMoniker": "Design Pattern\\strategy_pattern.cpp",
+              "ToolTip": "C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\strategy_pattern.cpp",
+              "RelativeToolTip": "Design Pattern\\strategy_pattern.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T11:22:09.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "factory_method_patten.cpp",
+              "DocumentMoniker": "C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\factory_method_patten.cpp",
+              "RelativeDocumentMoniker": "Design Pattern\\factory_method_patten.cpp",
+              "ToolTip": "C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\factory_method_patten.cpp",
+              "RelativeToolTip": "Design Pattern\\factory_method_patten.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T11:21:40.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "template_method_pattern.cpp",
+              "DocumentMoniker": "C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\template_method_pattern.cpp",
+              "RelativeDocumentMoniker": "Design Pattern\\template_method_pattern.cpp",
+              "ToolTip": "C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\template_method_pattern.cpp",
+              "RelativeToolTip": "Design Pattern\\template_method_pattern.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T11:13:39.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Design Pattern.cpp",
+              "DocumentMoniker": "C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\Design Pattern.cpp",
+              "RelativeDocumentMoniker": "Design Pattern\\Design Pattern.cpp",
+              "ToolTip": "C:\\Users\\lsm0729\\OneDrive - MIDAS\\\uBC14\uD0D5 \uD654\uBA74\\design_pattern\\smlee\\Design Pattern\\Design Pattern\\Design Pattern.cpp",
+              "RelativeToolTip": "Design Pattern\\Design Pattern.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T11:12:14.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
