@@ -4,9 +4,17 @@ project(BSH0514 LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+if(MSVC)
+  add_compile_options(/utf-8)
+endif()
+
 add_executable(BSH0514
   src/main.cpp
   src/AbstractFactory/AbstractFactory.cpp
   src/Builder/Builder.cpp
   src/Prototype/Prototype.cpp
+  src/Facade/Facade.cpp
+  src/Observer/Observer.cpp
+  src/Flyweight/Flyweight.cpp
+  src/Proxy/Proxy.cpp
 )
